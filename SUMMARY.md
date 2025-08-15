@@ -1,3 +1,5 @@
 # Table of contents
 
-* [Excelendar](README.md)
+* [What is Excelendar?](README.md)
+* [How to install?](how-to-install.md)
+* [How do I set up Excelendar?](how-do-i-set-up-excelendar.md)
