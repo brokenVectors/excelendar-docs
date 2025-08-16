@@ -2,7 +2,7 @@
 
 Outlook Calendar stores recurrence patterns using Microsoft's own format for specifying recurrences.
 
-For ease of use and legibility, the add-in uses the RRule spec for recurrences, which are to be entered in the Recurrence column for events. &#x20;
+For ease of use, brevity and legibility, the add-in uses the RRule spec for recurrences, which are to be entered in the Recurrence column for events. &#x20;
 
 The built-in RRule Editor is very useful for this purpose, which eliminates the need to manually specify RRule values. To use the RRule Editor, open the Excelendar tab in the ribbon bar and click on RRule Editor. Once opened, select an event row and specify your desired recurrence pattern. If the pattern is invalid, the editor's data validation will indicate this and the Insert button will be disabled as invalid RRules will cause export errors. Otherwise, you should be able to press Insert and enter the RRule into the recurrence cell of the selected event row.
 
