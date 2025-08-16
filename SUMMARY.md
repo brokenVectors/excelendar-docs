@@ -1,6 +1,7 @@
 # Table of contents
 
 * [What is Excelendar?](README.md)
+* [Excelendar v.s Power Automate](excelendar-v.s-power-automate.md)
 * [How do I install the add-in?](how-do-i-install-the-add-in.md)
 * [How do I set up Excelendar?](how-do-i-set-up-excelendar.md)
 * [Importing your first Calendar into Excel](importing-your-first-calendar-into-excel.md)
