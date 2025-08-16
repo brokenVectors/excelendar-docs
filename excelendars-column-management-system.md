@@ -32,4 +32,5 @@ Optional columns:
 - Show As
 - Importance
 - Sensitivity
+- Reminder
 ```
