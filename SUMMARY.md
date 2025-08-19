@@ -10,3 +10,4 @@
 * [Excelendar's Column management system](excelendars-column-management-system.md)
 * [How Excelendar manages datetimes and timezones](how-excelendar-manages-datetimes-and-timezones.md)
 * [Recurrence patterns, RRules and the RRule Editor](recurrence-patterns-rrules-and-the-rrule-editor.md)
+* [Deleting an event: Learning about the Update and Delete columns](deleting-an-event-learning-about-the-update-and-delete-columns.md)
