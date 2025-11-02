@@ -2,7 +2,7 @@
 
 Microsoft's Power Automate is a powerful tool when it comes to integrating Microsoft apps into eachother. However, in the case of Excel and Outlook Calendar integration, it is very limited. In the overwhelming majority of cases, Excelendar is the more efficient and reliable tool to use.
 
-Here's a side-by-side list of things that Power Automate can do, versus Excelendar:
+Main advantages of Excelendar over Power Automate:
 
 1. **Speed**: Bulk operations vs individual API calls
 2. **Simplicity**: Purpose-built interface vs general automation platform
